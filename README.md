@@ -9,7 +9,7 @@
 - Skillset: Java, C, C++, Assembly language, HTML
 
 - email: zhangandrew2@gmail.com
-      linkedin: https://www.linkedin.com/in/andrewz03/
+      linkedin: https://www.linkedin.com/in/zhangandrew2/
 
 <!---
 zhangandrew2/zhangandrew2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
