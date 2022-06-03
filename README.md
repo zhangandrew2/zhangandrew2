@@ -4,9 +4,9 @@
       that will allow me to learn about computer science. I love working in a team environment to solve problems and 
       meeting new people! I'm always ready to learn new skills needed and expand my knowledge base!
       
-- I’m currently learning React
+- I’m currently working on Web Development projects
 
-- Skillset: Java, C, C++, Assembly language, HTML
+- Skillset: Java, C, C++, Python, HTML/CSS, Javascript, React, Node.js, Assembly language, MongoDB
 
 - email: zhangandrew2@gmail.com
 - linkedin: https://www.linkedin.com/in/zhangandrew2/
