@@ -1,4 +1,4 @@
-- Hi, I’m a UCLA class of 2024 Computer Science Major
+- Hi, I’m a UCLA class of 2025 Computer Science Major
 
 - I'm eager to be involved in the computer science industry! I'm currently looking for internships and job opportunities 
       that will allow me to learn about computer science. I love working in a team environment to solve problems and 
